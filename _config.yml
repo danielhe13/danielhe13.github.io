@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Daniel He"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hello, you call me Daniel. I'm a first year Computer Science student at UNSW, aged 18, HSC cohort of 2021. This is my personal blog/porfolio website.\\**A little about me**\\I enjoy playing League of Legends, and watching Anime, Kdramas and listening to Kpop. I'm a huge fan of My Mister, Hotel Del Luna and A Silent Voice.\\Fav Kpop artists are  Chanmina and HyunA\\Feel free to message me on Discord, I'm always ready to talk."
+  bio    : "Hello, you call me Daniel. I'm a first year Computer Science student at UNSW, aged 18, HSC cohort of 2021. This is my personal blog/porfolio website.\n\n**A little about me**\n\nI enjoy playing League of Legends, and watching Anime, Kdramas and listening to Kpop. I'm a huge fan of My Mister, Hotel Del Luna and A Silent Voice.\n\nFav Kpop artists are  Chanmina and HyunA\n\nFeel free to message me on Discord, I'm always ready to talk."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
