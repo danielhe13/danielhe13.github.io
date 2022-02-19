@@ -62,21 +62,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Hello, you call me Daniel. I'm a first year Computer Science student at UNSW, aged 18, HSC cohort of 2021. This is my personal blog/porfolio website.\n\n**A little about me**\n\nI enjoy playing League of Legends, and watching Anime, Kdramas and listening to Kpop. I'm a huge fan of My Mister, Hotel Del Luna and A Silent Voice.\n\nFav Kpop artists are  Chanmina and HyunA\n\nFeel free to message me on Discord, I'm always ready to talk."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Discord"
       icon: "fas fa-fw fa-discord"
       url: "https://discord.gg/JQXt5hCMVQ"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/danielhe13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/kyubyte_/?hl=en"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=100015935407320"
 
 footer:
   links:
